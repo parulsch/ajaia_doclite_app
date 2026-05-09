@@ -23,9 +23,9 @@ This submission includes:
    - screenshots/ folder, if included
 
 4. Live links
-   - Frontend URL: TODO
-   - Backend API URL: TODO
-   - Walkthrough video URL: TODO
+   - Frontend URL: ajaia-doclite-app.vercel.app
+   - Backend API URL: https://ajaia-doclite-app.onrender.com
+   - Walkthrough video URL: https://drive.google.com/drive/folders/1s-7IGDOEfTwh1ylTYnXJeAwuWNgq3PKX?usp=drive_link
 
 ## What Works
 
