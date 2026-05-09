@@ -16,19 +16,19 @@
 
 # Frontend:
 
-# TODO: paste Vercel URL
+# TODO: ajaia-doclite-app.vercel.app
 
 # 
 
 # Backend API:
 
-# TODO: paste Render URL
+# TODO: https://ajaia-doclite-app.onrender.com
 
 # 
 
 # Walkthrough Video:
 
-# TODO: paste Loom/YouTube/Drive video URL
+# TODO: paste Loom/YouTube/Drive video URL:  https://drive.google.com/drive/folders/1s-7IGDOEfTwh1ylTYnXJeAwuWNgq3PKX?usp=drive_link
 
 # 
 
