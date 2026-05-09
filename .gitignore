@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SQLite local database
+*.db
+
+# Node / React
+node_modules/
+dist/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
